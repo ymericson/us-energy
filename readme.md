@@ -13,7 +13,7 @@ This is a search engine of the energy consumption trends in U.S. states that out
 To install the required packages in a new environment:
 ```bash
 $ python3 -m venv env
-$ source env/bin/ac
+$ source env/bin/activate
 $ pip install -r requirements.txt
 ```
 `requirement.txt` contains the required packages to run our program.
